@@ -5,7 +5,10 @@ I'm Colin, Junior Developer and current CS/Engineering student at the University
 If you're wondering, that's my favorite NFT I own, my MetaBillionaire...
 
 ## Things I've worked with 
-
+[![github](https://github.com/colinsmith3/colinsmith3/issues/1#issue-1090796367)][1]
+[![github](https://github.com/colinsmith3/colinsmith3/issues/2#issue-1090796811)][2]
+[![github](https://github.com/colinsmith3/colinsmith3/issues/3#issue-1090796857)][3]
+[![github](https://github.com/colinsmith3/colinsmith3/issues/4#issue-1090796917)][4]
 
 
 
