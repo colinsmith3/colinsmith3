@@ -7,6 +7,16 @@ If you're wondering, that's my favorite NFT I own, my MetaBillionaire...
 ## Things I've worked with 
 
 
+
+
+- 👀 I'm currently looking for an internship for summer 2022
+- 🔭 I’m currently working on websites for an Airbnb rental company and a mechanic shop
+- 🌱 I’m currently learning Solidity in my free time and sharpening my JavaScript and TypeScript skills
+- 💬 Ask me about anything Web 3.0, Crypto, or NFTs. I'd love to chat and learn as much as I can!
+- 📫 How to reach me:
+Email: jayson.colin.smith@gmail.com
+Twitter: @Colin_Smith30
+
 <!--
 **colinsmith3/colinsmith3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
