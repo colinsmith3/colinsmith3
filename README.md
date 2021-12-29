@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my page!
+I'm Colin, Junior Developer and current CS/Engineering student at the University of Kentucky.
+
+
 <!--
 **colinsmith3/colinsmith3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
