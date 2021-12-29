@@ -11,7 +11,7 @@ If you're wondering, that's my favorite NFT I own, my MetaBillionaire...
 
 - 👀 I'm currently looking for an internship for summer 2022
 - 💪 I’m currently working on websites for an Airbnb rental company and a mechanic shop
-- 🌱 I’m currently learning Solidity in my free time and sharpening my JavaScript and TypeScript skills
+- 🌱 I’m currently learning Solidity in my free time and sharpening my JavaScript, TypeScript, and React skills
 - 💬 Ask me about anything Web 3.0, Crypto, or NFTs. I'd love to chat and learn as much as I can!
 - 📫 How to reach me:
 Email: jayson.colin.smith@gmail.com
