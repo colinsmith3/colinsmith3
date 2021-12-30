@@ -14,7 +14,7 @@ If you're wondering, that's my favorite NFT I own, my MetaBillionaire...
 - 💬 Ask me about anything Web 3.0, Crypto, or NFTs. I'd love to chat and learn as much as I can!
 - 📫 Reach out:
 ---
-[![Email icon](https://user-images.githubusercontent.com/29903754/147712714-0197c2ca-dbd8-42b7-8fd1-b2462f6dc8d4.png)][1][![facebook icon](https://github.com/colinsmith3/colinsmith3/issues/2#issue-1090796811)][2][![twitter icon](https://github.com/colinsmith3/colinsmith3/issues/3#issue-1090796857)][3][![linkedin icon](https://github.com/colinsmith3/colinsmith3/issues/4#issue-1090796917)][4]
+[![email](https://user-images.githubusercontent.com/29903754/147712714-0197c2ca-dbd8-42b7-8fd1-b2462f6dc8d4.png)][1][![facebook](https://user-images.githubusercontent.com/29903754/147712776-2ce7946a-6e27-4bab-977c-76d07c8dd6aa.png)][2][![twitter](https://github.com/colinsmith3/colinsmith3/issues/3#issue-1090796857)][3][![linkedin](https://github.com/colinsmith3/colinsmith3/issues/4#issue-1090796917)][4]
 ---
 
 [1]: mailto:jayson.colin.smith@gmail.com
