@@ -13,7 +13,7 @@ If you're wondering, that's my favorite NFT I own, my MetaBillionaire...
 - 🌱 I’m currently learning Solidity in my free time and sharpening my JavaScript, TypeScript, and React skills
 - 💬 Ask me about anything Web 3.0, Crypto, or NFTs. I'd love to chat and learn as much as I can!
 - 📫 Reach out:
-[![Email icon](https://github.com/colinsmith3/colinsmith3/issues/1#issue-1090796367)][1][![facebook icon](https://github.com/colinsmith3/colinsmith3/issues/2#issue-1090796811)][2][![twitter icon](https://github.com/colinsmith3/colinsmith3/issues/3#issue-1090796857)][3][![linkedin icon](https://github.com/colinsmith3/colinsmith3/issues/4#issue-1090796917)][4]
+[![Email icon](https://user-images.githubusercontent.com/29903754/147710680-ee582a68-5939-4ed7-a60a-64daae404213.png)][1][![facebook icon](https://github.com/colinsmith3/colinsmith3/issues/2#issue-1090796811)][2][![twitter icon](https://github.com/colinsmith3/colinsmith3/issues/3#issue-1090796857)][3][![linkedin icon](https://github.com/colinsmith3/colinsmith3/issues/4#issue-1090796917)][4]
 
 [1]: mailto:jayson.colin.smith@gmail.com
 [2]: https://www.facebook.com/colin.smith.03
