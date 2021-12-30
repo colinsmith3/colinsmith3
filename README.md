@@ -15,7 +15,7 @@ If you're wondering, that's my favorite NFT I own, my MetaBillionaire...
 - 📫 Reach out:
 [![Email icon](https://github.com/colinsmith3/colinsmith3/issues/1#issue-1090796367)][1][![facebook icon](https://github.com/colinsmith3/colinsmith3/issues/2#issue-1090796811)][2][![twitter icon](https://github.com/colinsmith3/colinsmith3/issues/3#issue-1090796857)][3][![linkedin icon](https://github.com/colinsmith3/colinsmith3/issues/4#issue-1090796917)][4]
 
-[1]: jayson.colin.smith@gmail.com
+[1]: mailto:jayson.colin.smith@gmail.com
 [2]: https://www.facebook.com/colin.smith.03
 [3]: https://twitter.com/Colin_Smith30
 [4]: https://www.linkedin.com/in/colin-smith-901575191
