@@ -2,7 +2,7 @@
 
 Welcome to my page!
 I'm Colin, Junior Developer and current CS/Engineering student at the University of Kentucky.
-If you're wondering, that's my favorite NFT I own, my MetaBillionaire...
+If you're wondering about my profile picture, that's my favorite NFT I own, my MetaBillionaire...
 
 ## Things I've worked with 
 
