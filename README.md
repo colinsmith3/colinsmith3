@@ -8,7 +8,7 @@ If you're wondering about my profile picture, that's my favorite NFT I own, my M
 
 C++, Java, HTML, CSS, JavaScript, C, Swift, Python, R, (In order of proficency)
 
----
+--
 ## About Me
 - 👀 I'm currently looking for an internship for summer 2022 and/or a part-time job until graduation
 - 💪 I’m currently working on websites for an Airbnb rental company and a mechanic shop
