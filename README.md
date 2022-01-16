@@ -6,7 +6,7 @@ If you're wondering about my profile picture, that's my favorite NFT I own, my M
 
 ## Things I've worked with 
 
-C++, Java, HTML, CSS, JavaScript, C, Swift, Python, R, (In order of proficency)
+C++, Java, HTML, CSS, JavaScript, C, Swift, Python, R
 
 ## About Me
 - 👀 I'm currently looking for an internship for summer 2022 and/or a part-time job until graduation
