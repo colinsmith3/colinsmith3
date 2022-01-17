@@ -1,4 +1,4 @@
-### What's up?? 😎
+### Hi there 👋
 
 Welcome to my page!
 I'm Colin, Junior Developer and current CS/Engineering student at the University of Kentucky.
